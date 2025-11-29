@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "angularjs-coursework-app"
-        APP_PORT = "4200" 
+        APP_PORT = "4201" 
     }
 
     stages {
